@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BelajarLayout</string>
+    <string name="apa_peran_rating">Apa peran rating?</string>
+    <string name="kirim_feedback">Kirim Feedback</string>
+    <string name="kirim_saran_secara_anonim">Kirim saran secara anonim</string>
+    <string name="jelek">Jelek ⭐</string>
+    <string name="kurang">Kurang ⭐⭐</string>
+    <string name="okelah">Okelah ⭐⭐⭐</string>
+    <string name="mantap">Mantap ⭐⭐⭐⭐</string>
+    <string name="keren">Keren ⭐⭐⭐⭐⭐</string>
+    <string name="rating_drivermu">Rating Drivermu</string>
+    <string name="saran_untuk_drivermu">Saran Untuk Drivermu</string>
+</resources>
