@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LearningLayout</string>
+    <string name="apa_peran_rating">What is rating for?</string>
+    <string name="kirim_feedback">Send Feedback</string>
+    <string name="kirim_saran_secara_anonim">Senf Feedback Anonymously</string>
+    <string name="jelek">Bad ⭐</string>
+    <string name="kurang">Not Okay ⭐⭐</string>
+    <string name="okelah">Okay ⭐⭐⭐</string>
+    <string name="mantap">Good ⭐⭐⭐⭐</string>
+    <string name="keren">Great ⭐⭐⭐⭐⭐</string>
+    <string name="rating_drivermu">Rate Your Driver</string>
+    <string name="saran_untuk_drivermu">Feedback For Your Driver</string>
+    <string name="contoh_gambar">Image Example</string>
+</resources>
